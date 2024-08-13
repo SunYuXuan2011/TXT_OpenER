@@ -1,11 +1,6 @@
 ## 代码逻辑与功能解释
-————————————By SunYuXuan
-My twitter:SunYuXuan2011
-My Google:Syx111012@gmail.com
-My outlook:syx111012@hotmail.com
-My QQ:3342515521
-My Blog:https://aoo.ink
-WordPress:https://blog.aoo.ink
+————————————By SunYuXuan   
+My Blog:     https://aoo.ink
 ### 1. 导入库
 * **customtkinter:** 用于创建自定义的Tkinter界面，提供更美观和现代的控件。
 * **tkinter:** Python自带的GUI库，用于创建基本的图形用户界面。
